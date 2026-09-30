@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 185 46" role="img" aria-label="MAFLO">
+  <title>MAFLO</title>
+  <g fill="none" stroke-width="8" transform="scale(0.1797)">
+    <circle cx="156" cy="106" r="100" stroke="#F0D178"/>
+    <circle cx="106" cy="106" r="100" stroke="#2FB3D2"/>
+    <circle cx="131" cy="149.3" r="100" stroke="#C63F66"/>
+  </g>
+  <g fill="#FFFFFF" fill-rule="evenodd" transform="translate(61.1 12) scale(0.22)">
+    <path d="M0 100 L0 0 L26 0 L61 44 L96 0 L122 0 L122 100 L100 100 L100 30 L61 78 L22 30 L22 100 Z"/>
+    <path d="M138 100 L179 0 L205 0 L246 100 L220 100 L212 80 L172 80 L164 100 Z M178 60 L206 60 L192 28 Z"/>
+    <path d="M262 100 L262 0 L342 0 L342 22 L286 22 L286 40 L332 40 L332 62 L286 62 L286 100 Z"/>
+    <path d="M358 100 L358 0 L380 0 L380 77 L438 77 L438 100 Z"/>
+    <path d="M454 50 A54 50 0 1 1 562 50 A54 50 0 1 1 454 50 Z M476 50 A32 28 0 1 0 540 50 A32 28 0 1 0 476 50 Z"/>
+  </g>
+</svg>
